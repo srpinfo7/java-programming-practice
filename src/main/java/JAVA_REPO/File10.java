@@ -1,6 +1,6 @@
 package JAVA_REPO;
 
-//  Find Largest Element in Array
+//  Find Largest Element in Array, This is basically uses traditional method
 
 public class File10 {
 
